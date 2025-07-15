@@ -1,0 +1,35 @@
+html{
+    font-family: "Winky Rough", sans-serif;
+    background-color: #FEFAE0;
+}
+#header>p{
+    color: #FEFAE0;
+}
+img{
+    border-radius: 2%;
+}
+#header{
+    text-align: center;
+    background-color: #0A400C;
+    padding: 10px;
+}
+h1,h2{
+    color: #B1AB86;
+}
+#nav-div{
+    text-align: center;
+    background-color: #819067;
+    margin-top: -15px;
+}
+#nav-div>nav>ul>li{
+    display: inline-block;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    
+    color: black;
+}
+#content{
+    margin-left: 5%;
+}
